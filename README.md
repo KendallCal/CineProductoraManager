@@ -30,7 +30,3 @@ Este proyecto fue desarrollado para la asignatura "Estructura de Datos" de la UN
 
 - No se utilizan colecciones de Java (como ArrayList o Queue), únicamente arreglos primitivos.
 - Los datos no persisten después de cerrar la aplicación.
-
-## Créditos
-
-Proyecto desarrollado como parte del curso "Estructura de Datos" de la Universidad Estatal a Distancia (UNED), II Cuatrimestre 2024.
