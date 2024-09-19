@@ -1,6 +1,6 @@
 # CineProductoraManager
 
-Este proyecto fue desarrollado para la asignatura "Estructura de Datos" (00825) de la UNED en el II Cuatrimestre de 2024. Es una aplicación gráfica en Java (NetBeans) que simula la gestión de productoras cinematográficas y sus películas utilizando estructuras de datos como pilas y colas implementadas con arreglos primitivos de objetos.
+Este proyecto fue desarrollado para la asignatura "Estructura de Datos" de la UNED en el II Cuatrimestre de 2024. Es una aplicación gráfica en Java (NetBeans) que simula la gestión de productoras cinematográficas y sus películas utilizando estructuras de datos como pilas y colas implementadas con arreglos primitivos de objetos.
 
 ## Funcionalidades Principales
 
