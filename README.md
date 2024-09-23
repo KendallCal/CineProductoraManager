@@ -5,10 +5,18 @@ Este proyecto fue desarrollado para la asignatura "Estructura de Datos" de la UN
 ## Funcionalidades Principales
 
 - **Registro de Productoras:** Se puede añadir nuevas productoras que se almacenan en una pila. Los datos incluyen un ID generado automáticamente y una descripción.
+<img src="Demostración/Productoras.png" alt="Captura Productoras" width="800" />
+
 - **Registro de Películas:** Las películas se almacenan en una cola dentro de cada productora. Se pueden agregar nuevas películas asignando un identificador GUID, nombre, género y tipo de audiencia.
+<img src="Demostración/Peliculas.png" alt="Captura Productoras" width="800" />
+
 - **Eliminación de Películas:** Se eliminan automáticamente las películas registradas primero dentro de una productora.
+<img src="Demostración/Eliminación.png" alt="Captura Eliminación" width="800" />
+
 - **Traslado de Películas:** Permite transferir todas las películas de una productora a otra.
-- **Eliminación de Productoras:** Solo se permite si la productora no tiene películas registradas.
+<img src="Demostración/Traslado.png" alt="Captura Traslado" width="800" />
+
+También puedes ver el [Video Demostración](Demostración/Demo.mp4) completo.
 
 ## Estructuras de Datos Utilizadas
 
